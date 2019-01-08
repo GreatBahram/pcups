@@ -35,6 +35,8 @@ setup(
     install_requires=INSTALL_DEPS,
     zip_safe=False,
     classifiers=[
+        "Intended Audience :: Developers",
+        "Topic :: Software Development :: Libraries :: Python Modules",
         'Programming Language :: Python :: 3 :: Only',
         'Programming Language :: Python :: 3',
     ],

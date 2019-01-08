@@ -1,0 +1,7 @@
+__title__ = 'pcups'
+__description__ = 'Pythonic interface for pycups.'
+__url__ = 'https://github.com/GreatBahram/pythonic_cups'
+__version__ = '0.0.1'
+__author__ = 'Bahram Aghaei'
+__author_email__ = 'aghaee.bahram@gmail.com'
+__license__ = 'Academic Free License, version 3'

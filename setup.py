@@ -29,6 +29,7 @@ setup(
     license=about['__license__'],
     url=about['__url__'],
     packages=find_packages('src'),
+    keywords=['pcups', 'cups', 'pycups', ],
     package_dir={'': 'src'},
     include_package_data=True,
     package_data={'': ['LICENSE']},
